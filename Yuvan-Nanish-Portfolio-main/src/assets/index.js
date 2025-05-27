@@ -1,4 +1,7 @@
 import logo from "./lg1.png";
+import health from "./health.jpg";
+import cloud from "./cloud.jpg";
+import stock from "./stock.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";

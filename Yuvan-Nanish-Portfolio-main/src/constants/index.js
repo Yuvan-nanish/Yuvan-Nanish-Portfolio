@@ -219,7 +219,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: project2, // Replace with actual stock prediction project image
+    image: stock, // Replace with actual stock prediction project image
     source_code_link: "https://github.com/Yuvan-nanish/Stock-price-prediction-model-using-Yfinance",
   },
   {
@@ -244,7 +244,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: gearXpert, // Replace with actual e-learning project image
+    image: cloud, // Replace with actual e-learning project image
     source_code_link: "https://github.com/Yuvan-nanish/E-learning",
   },
   {
@@ -269,7 +269,7 @@ const projects = [
         color: "white-text-gradient",
       },
     ],
-    image: project3, // Replace with actual HIE project image
+    image: health, // Replace with actual HIE project image
     source_code_link: "https://github.com/Yuvan-nanish/SECURE-HEALTH-INFORMATION-EXCHANG",
   },
 ];
