@@ -32,6 +32,9 @@ import {
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
+  cloud,
+  stock,
+  health,
 } from '../assets'
 
 
