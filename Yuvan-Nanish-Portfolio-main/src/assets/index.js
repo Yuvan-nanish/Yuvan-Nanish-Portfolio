@@ -1,7 +1,7 @@
 import logo from "./lg1.png";
-import health from "./health.jpg";
-import cloud from "./cloud.jpg";
-import stock from "./stock.jpg";
+import health from "./tech/health.png";
+import cloud from "./tech/cloud.png";
+import stock from "./tech/stock.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -46,6 +46,9 @@ export {
   gearXpert,
   project2,
   project3,
+  health,
+  cloud,
+  stock,
   mysql,
   express,
   aws,
